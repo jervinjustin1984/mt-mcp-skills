@@ -9,12 +9,8 @@ Generates a live, interactive churn risk dashboard scoped to members who joined 
 
 ## Step 1: Identify the MCP server
 
-Check which MarianaTek studio MCP is connected and available. Common ones include:
+Check which MarianaTek studio MCP is connected and available. An example includes:
 - `Cousteau` / `Cousteau Admin`
-- `Spin Unlimited`
-- `Ra Yoga`
-- `Zenergy`
-- `OneSweat`
 
 Use whichever studio MCP the user has connected and is asking about. If multiple are connected, ask the user which studio they want the report for.
 
